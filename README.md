@@ -9,19 +9,43 @@ I'm **CoderAni34** - a passionate developer with a focus on **Python development
 ### Languages
 - **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - **Bash** ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+- **SQL** ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=mysql&logoColor=white)
 
-### Areas of Expertise
-- 🔐 **Cybersecurity** - Exploring security concepts and building security tools
-- 🌐 **Network Security** - Learning network fundamentals and protocols
-- 🔍 **Penetration Testing** - Currently building skills in ethical hacking
-- 🐚 **Shell Scripting** - Automating tasks with Bash
-- 🐍 **Python Development** - Building applications and security tools
+### Cybersecurity & Tools
+- 🔐 **Cybersecurity Fundamentals** - Risk management, threat analysis
+- 🌐 **Network Security** - Network protocols, security architecture
+- 🔍 **Penetration Testing** - Security testing and vulnerability assessment
+- 🛡️ **Threat Detection & Response** - Incident response, security monitoring
+- 🔧 **Security Automation** - Python automation for security tasks
+- 💻 **Linux Administration** - System management and security hardening
 
 ### Other Skills
-- Linux/Unix Administration
 - Git & Version Control
 - System Administration
-- Software Development
+- SQL Database Management
+- Security Risk Assessment
+- Incident Response
+- Security Tool Development
+
+---
+
+## 🏆 Certifications & Credentials
+
+### Google Cybersecurity Professional Certificate
+- ✅ Foundations of Cybersecurity
+- ✅ Play It Safe: Manage Security Risks
+- ✅ Connect and Protect: Networks and Network Security
+- ✅ Tools of the Trade: Linux and SQL
+- ✅ Assets, Threats, and Vulnerabilities
+- ✅ Sound the Alarm: Detection and Response
+- ✅ Automate Cybersecurity Tasks with Python
+- ✅ Put It to Work: Prepare for Cybersecurity Jobs
+- **Google Cybersecurity Professional Certificate V2** - Completed
+
+### Additional Certifications
+- 🏅 **Tata - Cybersecurity Analyst Job Simulation** - Practical experience
+- 🏅 **Jr Penetration Tester Certificate** - Penetration testing fundamentals
+- 🏅 **Cyber Security 101 Certificate** - Core security concepts
 
 ---
 
